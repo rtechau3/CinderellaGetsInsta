@@ -81,3 +81,11 @@ nav navbar-nav {
 col {
     text-align: center;
 }
+
+/* Can probably delete later */
+.process-img-rotated {
+    width: 30%;
+    height: 30%;
+    padding: 5px;
+    transform: rotate(90deg);
+}

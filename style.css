@@ -50,6 +50,11 @@ nav navbar-nav {
     background-color: #B8D6F0;
 }
 
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
 @font-face {
     font-family: 'al_cinderellaregular';
     src: url('Assets/artsylady_al-cinderella/AL\ Cinderella.ttf');
